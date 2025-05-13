@@ -49,17 +49,17 @@ body {
     font-size: 30px;
     letter-spacing: 8px;
     text-transform: uppercase;
-    
+
 
 }
 
 .textbg {
     padding: 20px;
-    color: white ;
-    background-color:rgba(0, 0, 0, 0.3);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
     font-size: 40px;
     font-weight: 500;
-   
+
 }
 
 .section {
